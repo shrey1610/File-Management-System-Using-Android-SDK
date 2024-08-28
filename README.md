@@ -8,8 +8,6 @@ The File Management Application is an intuitive Android tool for easy file manag
 
 - **Document Creation**: Create new documents easily.
 - **File Editing**: Open and edit existing files.
-- **Automatic Saving**: Ensures data integrity and prevents loss.
-- **Version Control**: Keeps track of changes to files.
 - **File Management**: Streamlined operations for efficient file handling.
 
 ## Architecture
