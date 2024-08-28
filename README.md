@@ -49,3 +49,4 @@ The application follows the **Model-View-Controller (MVC)** design pattern:
 
 - **Development Environment**: Android Studio Koala
 
+View raw, if any issues in accessing the zip directly from the branch
