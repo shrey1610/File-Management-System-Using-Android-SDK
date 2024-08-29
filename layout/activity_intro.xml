@@ -1,0 +1,52 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FILE MANAGEMENT SYSTEM"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="50dp"
+        android:paddingBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/textViewAppNameKannada"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ನಮ್ಮ ಫೈಲ್‌ಗಳು"
+        android:textSize="40sp"
+        android:textColor="@android:color/white"
+        android:layout_below="@id/textViewTitle"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="10dp"
+        android:paddingBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/textViewTeamMembers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PAVAN KUMAR\nSUBHASH CHANDRA BOSE\nSHARATH M S\nSHREYAS C\nSHREEHARSH JOSHI"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:layout_below="@id/textViewAppNameKannada"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:id="@+id/buttonContinue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"/>
+</RelativeLayout>
