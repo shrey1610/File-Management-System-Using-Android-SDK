@@ -45,6 +45,7 @@ The application follows the **Model-View-Controller (MVC)** design pattern:
 
 ## Development
 
-- **Development Environment**: Android Studio Koala
+- **Development Environment**: Android Studio (version-Koala)
 
-View raw, if any issues in accessing the zip directly from the branch
+All project related files are uploaded, remaining config files are required for successful execution
+NOTE: Configuration files differs from various versions of Android Studio
