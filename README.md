@@ -48,4 +48,4 @@ The application follows the **Model-View-Controller (MVC)** design pattern:
 - **Development Environment**: Android Studio (version-Koala)
 
 All project related files are uploaded, remaining config files are required for successful execution
-NOTE: Configuration files differs from various versions of Android Studio
+(NOTE: Configuration files differs from various versions of Android Studio)
